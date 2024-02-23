@@ -1,5 +1,5 @@
 ## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+/*Portfolio website build using HTML5, CSS3, JavaScript and jQuery.*/
 
 <a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
@@ -28,4 +28,4 @@ If you want to contact me, you can reach me through below handles.
 © 2022 Jigar Sable
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) */
