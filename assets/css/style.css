@@ -1041,20 +1041,21 @@ form .button-area {
   flex-direction: row-reverse;
 }
 .button-area button {
-  color: #fff;
+  color: #1a1515;
   border: none;
   outline: none;
   font-size: 1.8rem;
   cursor: pointer;
   border-radius: 5px;
   padding: 13px 25px;
-  background: #2506ad;
+  background: #fcce00;
   box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
   transition: 0.3s ease;
-  font-family: "Nunito", sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
 }
 .button-area button:hover {
-  background: #421cecf5;
+  background: #fcce00b6;
 }
 .button-area span {
   font-size: 17px;
@@ -1067,7 +1068,7 @@ form .button-area {
   left: 2px;
   font-size: 1.5rem;
   transition: 0.3s;
-  color: #fff;
+  color: #080707;
 }
 .button-area button:hover i {
   left: 8px;
