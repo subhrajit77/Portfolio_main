@@ -65,7 +65,7 @@ s0.parentNode.insertBefore(s1,s0);
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Jigar Sable";
+        document.title = "Portfolio";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
     else {
