@@ -166,7 +166,7 @@ header .navbar ul li a:hover {
   }
   header .navbar ul li a.active,
   header .navbar ul li a:hover {
-    padding: 0.8rem;
+    padding: 1rem;
     color: #fff;
     border-radius: 0.5rem;
     border-bottom: 0.3rem solid #e4c203;
@@ -758,9 +758,8 @@ header .navbar ul li a:hover {
   transition: 0.3s;
 }
 .work .viewall .btn:hover {
-  background: #f7e602;
+  background: #ffffff;
   color: #000;
-  /* border: px solid white; */
 }
 .work .viewall .btn:hover i {
   transform: translateX(5px);
