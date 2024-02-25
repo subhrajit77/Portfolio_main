@@ -372,7 +372,7 @@ header .navbar ul li a:hover {
   cursor: pointer;
 }
 .about .row .image img:hover {
-  mix-blend-mode: normal;
+  mix-blend-mode:normal;
 }
 .about .row .content {
   flex: 1 1 45rem;
