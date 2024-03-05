@@ -11,9 +11,9 @@
   },
   
   {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
+    "name": " The WeatherApp",
+    "desc": "It shows the working of a basic weather app.",
+    "image": "Weather -",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -31,13 +31,14 @@
     }
   },
   {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
+    "name": "Snake Duniya",
+    "desc": "It is a basic game of Snake using HTML, CSS and Javascript",
+    "image": "Snake",
     "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
     }
   }
+  
 ]
