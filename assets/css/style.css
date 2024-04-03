@@ -541,6 +541,7 @@ header .navbar ul li a:hover {
 .education {
   background: #e5ecfb;
   min-height: 80vh;
+  scroll-behavior: smooth;
 }
 .education .qoute {
   font-size: 1.5rem;
