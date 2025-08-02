@@ -1,19 +1,40 @@
 [
   {
-    "name": "Entrepreneurship Club CITK",
-    "desc": "Fully fledged Webapp based on different design patterns. Built using Javascript, HTML, CSS, Bootsrap",
-    "image": "Entrepreneurship Club -",
+    "name": "Palm Health AI",
+    "desc": "A deep learning project to detect palm leaf diseases using CNN-based classifiers, combined with Explainable AI (XAI) to interpret model decisions and visualize diseased regions.",
+    "image": "index page",
+    "category": "aiml",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Orbit – HR Management",
+    "desc": "Full-stack HRM tool developed using Firebase (backend) and Chakra UI/NextJS (frontend), allowing employee registration and much more",
+    "image": "orbit-home-page",
     "category": "Web",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
+
   
   {
-    "name": " The WeatherApp",
-    "desc": "It shows the working of a basic weather app.",
-    "image": "Weather -",
+    "name": " Do-Deck Task Manager",
+    "desc": "MERN-based productivity app for organizing tasks, managing deadlines, and improving workflow. Tailwind CSS + custom UI components were integrated.",
+    "image": "do-deck-landing",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Green Horn Travels",
+    "desc": "A tourism and travel agency website developed to showcase travel packages, destinations, and customer experiences",
+    "image": "green-horns-landing",
     "category": "basicweb",
     "links": {
       "view": "#",
